@@ -8,14 +8,14 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/vandungday" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="vandungday-facebook" />
+  <a href="[https://facebook.com/vandungday](https://www.facebook.com/PCevermind/)" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="" />
   </a>
 
   <a href="https://instagram.com/vandungday" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="vandungday-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="" />
   </a>
   <a href="mailto:dungtn492@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="vandungday-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="" />
   </a>
 </div>
